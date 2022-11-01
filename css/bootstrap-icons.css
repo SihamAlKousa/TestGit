@@ -8,9 +8,7 @@ url("../fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d") format("wo
 [class^="bi-"]::before,
 [class*=" bi-"]::before {
   display: inline-block;
-  font-family: bootstrap-icons !important;
-  font-style: normal;
-  font-weight: normal !important;
+  font-family: 'Courier New', Courier, monospace;
   font-variant: normal;
   text-transform: none;
   line-height: 1;
