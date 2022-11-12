@@ -14,13 +14,7 @@
     var slice = Array.prototype.slice; // save ref to original slice()
     var splice = Array.prototype.splice; // save ref to original slice()
 
-  var defaults = {
-      topSpacing: 0,
-      bottomSpacing: 0,
-      className: 'is-sticky',
-      wrapperClassName: 'sticky-wrapper',
-      center: false,
-      getWidthFrom: '',
+  fgfg
       widthFromWrapper: true, // works only when .getWidthFrom is empty
       responsiveWidth: false
     },
